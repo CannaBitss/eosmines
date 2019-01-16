@@ -1,0 +1,3 @@
+cleos wallet unlock --password PW5KhDSYYAdeqQfwWijM2hu5hfWz3XgU3P4cessn2kwZFh6JhGeCa
+cleos create account eosio dbetsmines11 EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
+./compile.sh
